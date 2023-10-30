@@ -1,0 +1,1 @@
+this is my day 5 task JSON iterate over all for loos(for,for in,for of) and own resume data in json format
